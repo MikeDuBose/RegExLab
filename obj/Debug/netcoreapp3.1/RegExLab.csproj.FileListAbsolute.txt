@@ -1,0 +1,11 @@
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RegExLab\bin\Debug\netcoreapp3.1\RegExLab.exe
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RegExLab\bin\Debug\netcoreapp3.1\RegExLab.deps.json
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RegExLab\bin\Debug\netcoreapp3.1\RegExLab.runtimeconfig.json
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RegExLab\bin\Debug\netcoreapp3.1\RegExLab.runtimeconfig.dev.json
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RegExLab\bin\Debug\netcoreapp3.1\RegExLab.dll
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RegExLab\bin\Debug\netcoreapp3.1\RegExLab.pdb
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RegExLab\obj\Debug\netcoreapp3.1\RegExLab.csprojAssemblyReference.cache
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RegExLab\obj\Debug\netcoreapp3.1\RegExLab.AssemblyInfoInputs.cache
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RegExLab\obj\Debug\netcoreapp3.1\RegExLab.AssemblyInfo.cs
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RegExLab\obj\Debug\netcoreapp3.1\RegExLab.dll
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\RegExLab\obj\Debug\netcoreapp3.1\RegExLab.pdb
